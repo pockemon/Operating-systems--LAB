@@ -1,4 +1,4 @@
-
+//c program to perform following system calls
 
 File structure related system calls:
                1.creat()
