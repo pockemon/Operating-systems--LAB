@@ -1,0 +1,34 @@
+
+
+File structure related system calls:
+               1.creat()
+               2.open()
+               3.close()
+               4.read()
+               5.write()
+               6.lseek()
+               7.dup()
+               8.link()
+               9.unlink()
+               10.access()
+               11.chmod()
+               12.chown()
+               13.umask()
+               14.ioctl()
+
+
+Process related system calls
+               1.execl()
+               2.fork()
+               3.wait()
+               4.exit()
+               5.getuid()
+               6.geteuid()
+               7.getgid()
+               8.getegid()
+               9.getpid(),
+               10.getppid()
+               11.signal()
+               12.kill()
+               13.alarm()
+               14.chdir()
