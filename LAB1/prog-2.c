@@ -1,4 +1,9 @@
-//program to use open system call
+/*
+  HARDIK RANA
+  
+  program to use open() system call to open a file.
+
+*/
 
 #include<stdio.h>
 #include<string.h>
@@ -11,7 +16,7 @@
 int main()
 {
   
-  int fd=open("file1.text",O_CREAT|O_RDWR,S_IRWXU);
+  int fd=open("file1.txt",O_CREAT|O_RDWR,S_IRWXU);
 
   if(fd==-1)
   {
