@@ -1,5 +1,9 @@
-//program to use system call creat
-
+/*
+ HARDIK RANA
+ 
+ program to use system call creat() create  a new file.
+ 
+*/
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
