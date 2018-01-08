@@ -1,4 +1,8 @@
-//program to use close() system call to close the file which was  opened by open() system call
+/*
+ HARDIK RANA
+ 
+ program to use close() system call to close the file which was  opened by open() system call
+*/
 
 #include<stdio.h>
 #include<fcntl.h>
