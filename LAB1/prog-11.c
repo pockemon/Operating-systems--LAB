@@ -1,4 +1,10 @@
-//program to use chown() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call getuid(),geteuid(),getgid(),getegid() & chown() system calls.
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
