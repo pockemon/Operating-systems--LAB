@@ -1,4 +1,10 @@
-//program to use wait() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call wait().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/wait.h>
