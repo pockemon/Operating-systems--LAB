@@ -1,4 +1,10 @@
-//program to use lseek() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call lseek().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
