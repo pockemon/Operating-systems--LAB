@@ -1,4 +1,10 @@
-//program to use access() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call access().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
