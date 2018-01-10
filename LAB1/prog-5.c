@@ -1,4 +1,10 @@
-//program to use write() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call write().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
