@@ -1,4 +1,10 @@
-//program to use dup() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call dup().
+ 
+*/
+
 #include<stdio.h>
 #include <unistd.h>
 #include <fcntl.h>
