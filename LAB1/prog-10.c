@@ -1,4 +1,10 @@
-//program to use chmod() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call chmod().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
