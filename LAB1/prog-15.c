@@ -1,4 +1,10 @@
-//exit() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call exit().
+ 
+*/
+
 #include<stdio.h>
 #include "stdlib.h"
 void main()
