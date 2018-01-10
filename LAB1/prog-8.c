@@ -1,4 +1,10 @@
-//program to use link() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call link().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
