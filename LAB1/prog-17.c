@@ -1,4 +1,10 @@
-//program to use kill() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call kill().
+ 
+*/
+
 #include <stdio.h>
 #include <signal.h>
 #include <unistd.h>
