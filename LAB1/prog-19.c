@@ -1,4 +1,9 @@
-//program to use alarm() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call alarm().
+ 
+*/
 
 #include <stdio.h>
 #include <signal.h>
