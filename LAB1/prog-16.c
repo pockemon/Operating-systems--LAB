@@ -1,4 +1,10 @@
-//program to use signal() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call signal().
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<signal.h>
