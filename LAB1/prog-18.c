@@ -1,4 +1,10 @@
-//program to use chdir() system call
+/*
+ HARDIK RANA
+ 
+ program to use system call chdir().
+ 
+*/
+
 #include <stdio.h>
 #include <signal.h>
 #include <unistd.h>
