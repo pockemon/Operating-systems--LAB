@@ -1,2 +1,2 @@
 # Operating systems-lab
-Codes pertaining to OS Lab for CSE NITK-SEM 4(Course CO254 - Operating Systems)
+Codes pertaining to OS Lab for Course CO254 - Operating Systems(CSE-NITK  SEM-4)
