@@ -1,7 +1,10 @@
-//first come first serve-arrival time of all process is different
+//HARDIK RANA
+
 /*
+first come first serve-arrival time of all process is different
  Service Time : Service time means amount of time    after which a process can start execution. It is summation of burst time of previous processes (Processes that came before)
- 1-Input the processes along with their burst time(bt)
+
+1-Input the processes along with their burst time(bt)
    and arrival time(at)
  2-Find waiting time for all other processes i.e. for
    a given process  i:
