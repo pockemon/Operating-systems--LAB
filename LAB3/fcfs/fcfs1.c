@@ -1,7 +1,9 @@
-//first come first serve-arrival time of all process is different
+//HARDIK RANA
+
 /*
+first come first serve-arrival time of all process is different
  Service Time : Service time means amount of time    after which a process can start execution. It is summation of burst time of previous processes (Processes that came before)
- 1-Input the processes along with their burst time(bt)
+1-Input the processes along with their burst time(bt)
    and arrival time(at)
  2-Find waiting time for all other processes i.e. for
    a given process  i:
@@ -9,7 +11,6 @@
  3-turn around time = waiting_time + burst_time for all processes
  4-Average waiting time=total_waiting_time / no_of_processes
  5-Average turn around time = total_turn_around_time / no_of_processes
-
 */
 
 #include<stdio.h>
