@@ -1,11 +1,14 @@
-//first come first serve-1[Arrival time of all process is same 0]
+//HARDIK RANA
+
 /*
+first come first serve-1[Arrival time of all process is same 0]
 1.first process that comes need not to wait so waiting time for process 1 will be 0 i.e. wt[0] = 0.
 2.Find waiting time for all other processes i.e. for process i ->  wt[i] = bt[i-1] + wt[i-1] .
 3-turnaround time = waiting_time + burst_time  for all processes.
 4-average waiting time = total_waiting_time / no_of_processes.
 5-turnaround time= total_turn_around_time / no_of_processes.
 */
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
