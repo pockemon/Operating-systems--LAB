@@ -1,23 +1,19 @@
-//round robin algorithm with same arrival time.
-//because of same arrival time turn around time and completion time of processes will be same
-
-//an array rem_bt[] will keep track of remaining burst time of processes.we will initialize it as a copy of bt[] array
-
-//wt[] array will store waiting time of all processes.initializes as 0.
-
-//initial time=0
+//Hardik Rana
 
 /*
+  round robin algorithm with same arrival time.
+  because of same arrival time turn around time and completion time of processes will be same
+  an array rem_bt[] will keep track of remaining burst time of processes.we will initialize it as a copy of bt[] array
+  wt[] array will store waiting time of all processes.initializes as 0.
+  initial time=0
   we will keep traverse processes as all processes are not complete and do this process
   1] if rem_bt[i]>quantum
      <i>t=t+quantum
      <ii>bt[i]-=quantam
-
   2] else
     <i>t=t+bt_rem[i]
     <ii>wt[i]=t-bt[i]
     <iii>bt_rem[i]=0 //process is done.
-
 */
 
 #include<stdio.h>
