@@ -1,4 +1,8 @@
-//sjf non-preemptive with same arrival time
+/*
+    Rana Hardik
+    
+    sjf non-preemptive with same arrival time
+*/
 
 #include<stdio.h>
 #include<stdlib.h>
