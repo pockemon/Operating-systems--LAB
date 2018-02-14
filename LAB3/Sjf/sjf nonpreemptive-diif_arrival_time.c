@@ -37,7 +37,7 @@ int main()
     {
         scanf("%d %d %d",&proc[i].pid,&proc[i].at,&proc[i].bt);
     }
-    /*
+    
     printf("before sorting according to arrival-time\n");
     printf("process-id\tarrival-time\tburst-time\n");
     for(i=0;i<n;i++)
@@ -63,7 +63,7 @@ int main()
     {
         printf("%d\t\t%d\t\t%d\n",proc[i].pid,proc[i].at,proc[i].bt);
     }
-    */
+    
     int r=proc[0].at;
     //printf("r=%d\n",r);
     int p=1;
@@ -131,7 +131,7 @@ int main()
         tat1+=proc[i].tat;
     }
 
-    printf("waiting-time\n");
+    //printf("waiting-time\n");
     for(i=0;i<n;i++)
     {
         proc[i].wt=proc[i].tat-proc[i].bt;
