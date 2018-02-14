@@ -1,0 +1,15 @@
+1]First come first serve
+  [Nonpreemptive-with same arrival time and with different arrival time]
+  
+2]Shortest Job First
+  [Nonpreemptive-with same arrival time and with different arrival time]
+  [preemptive]
+  
+3]Priority Scheduling
+  [Nonpreemptive-with same arrival time and with different arrival time]
+  [preemptive]
+  
+4]Round Robin
+  [Nonpreemptive-with same arrival time and with different arrival time]
+  [preemptive]
+  
