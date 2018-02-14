@@ -1,3 +1,10 @@
+/*
+   Rana Hardik
+   
+   Shortest Job First-nonpreemptive algorithm with different arrival time
+   
+*/
+
 #include<stdio.h>
 
 struct process
