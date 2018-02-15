@@ -1,3 +1,10 @@
+/*
+  Rana Hardik
+  
+  Priority scheduling with same arrival time for each process
+  
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -23,7 +30,7 @@ int main()
       scanf("%d %d %d",&proc[i].pid,&proc[i].bt,&proc[i].priority);
   }
 
-  //sort according to burst time
+  //sort according to priority
   for(i=0;i<n-1;i++)
   {
       for(j=i+1;j<n;j++)
