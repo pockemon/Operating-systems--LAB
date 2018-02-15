@@ -1,3 +1,5 @@
+CPU SCHEDULING ALGORITHMS:
+
 1]First come first serve
   [Nonpreemptive-with same arrival time and with different arrival time]
   
@@ -10,6 +12,5 @@
   [preemptive]
   
 4]Round Robin
-  [Nonpreemptive-with same arrival time and with different arrival time]
   [preemptive]
   
