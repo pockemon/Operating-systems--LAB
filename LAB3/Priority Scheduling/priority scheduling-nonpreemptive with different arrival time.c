@@ -1,3 +1,10 @@
+/* 
+    Hardik Rana
+    
+    Priority scheduling with different arrival time-nonpreemptive
+ 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
