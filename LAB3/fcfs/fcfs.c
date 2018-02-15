@@ -26,7 +26,7 @@ int main()
   }
   int wt[n],tat[n];
   wt[0]=0;
-  for(i=0;i<n;i++)
+  for(i=1;i<n;i++)
   {
    wt[i]=bt[i-1]+wt[i-1];
   }
