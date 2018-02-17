@@ -1,3 +1,9 @@
+/*   
+   Hardik Rana
+   
+   Reader Writer problem
+*/
+
 #include<stdio.h>
 #include<string.h>
 
