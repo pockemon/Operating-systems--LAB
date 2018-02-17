@@ -1,3 +1,10 @@
+/*
+   Hardik Rana
+   
+   producer consumer problem
+   
+*/
+
 #include<stdio.h>
 #include<string.h>
 
