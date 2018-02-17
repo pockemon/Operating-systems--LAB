@@ -1,3 +1,10 @@
+/*
+  Hardik Rana
+  
+  Dining philosopher problem using semaphore and pthreads
+  
+*/
+
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
