@@ -1,3 +1,10 @@
+/*
+   Hardik Rana
+   
+   Banker's Algorithm
+   
+*/
+
 #include<stdio.h>
 #include<stdbool.h>
 #include<stdlib.h>
@@ -10,9 +17,9 @@ int sequence[100];
 /*
   Safety Algorithm:
 
-  1) Let Work and Finish be vectors of length ‘m’ and ‘n’ respectively.
+  1) Let Work and Finish be vectors of length â€˜mâ€™ and â€˜nâ€™ respectively.
      Initialize: Work = Available
-     Finish[i] = false; for i=1, 2, 3, 4….n
+     Finish[i] = false; for i=1, 2, 3, 4â€¦.n
 
   2) Find an i such that both
      a) Finish[i] = false
@@ -138,9 +145,9 @@ int main()
 
        3) Have the system pretend to have allocated the requested resources to process Pi by modifying the state as
           follows:
-          Available = Available – Requesti
+          Available = Available â€“ Requesti
           Allocationi = Allocationi + Requesti
-          Needi = Needi– Requesti
+          Needi = Neediâ€“ Requesti
 
     */
 
