@@ -1,4 +1,9 @@
-//sjf preemptive algorithm
+/*
+   Rana Hardik
+   
+   Shortest Job First-preemptive algorithm
+   
+*/
 
 #include<stdio.h>
 #include<stdbool.h>
