@@ -1,4 +1,4 @@
-//variable partitioning-first fit algorithm
+//variable size-first fit algorithm
 
 #include<stdio.h>
 
