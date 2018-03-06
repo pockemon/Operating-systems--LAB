@@ -1,4 +1,4 @@
-//variable partitioning-best fit algorithm
+//variable size-best fit algorithm
 
 #include<stdio.h>
 
