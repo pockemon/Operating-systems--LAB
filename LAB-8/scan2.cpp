@@ -66,7 +66,7 @@ int main()
  }
 
  int prev_head;
- printf("enter previous head position\n");
+ printf("\nenter previous head position\n");
  scanf("%d",&prev_head);
 
  int c;
