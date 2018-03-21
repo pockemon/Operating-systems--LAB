@@ -24,4 +24,7 @@ Codes pertaining to OS Lab for Course CO254 - Operating Systems(CSE-NITK  SEM-4)
   
 **LAB-8
   Disk scheduling algorithms
+  
+**LAB-9
+  Page Replacement algorithms
 
