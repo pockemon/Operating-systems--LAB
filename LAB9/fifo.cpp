@@ -64,7 +64,7 @@ int main()
 
       printf("\nTotal Page Faults=%d\n", pf);
 
-      printf("total page hit is=%d\n",n-pf);
+      //printf("total page hit is=%d\n",n-pf);
 
       return 0;
 }
